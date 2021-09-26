@@ -1,6 +1,6 @@
 public class Calculator {
     
-      public void Calculator() {
+      public Calculator() {
     
       }
       
