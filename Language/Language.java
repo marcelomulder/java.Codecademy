@@ -31,6 +31,7 @@ public class Language{
       Language nonchinese = new SinoTibetan("Burmese", 36810);
       chinese.getInfo();
       nonchinese.getInfo();
+      
   
     }
   }
